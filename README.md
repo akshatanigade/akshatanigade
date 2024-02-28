@@ -1,4 +1,4 @@
-👋 Hi, I’m Akshata (@akshatanigade)
+👋 Hi, I’m Akshata 
 
 👀 I’m passionate about creating and testing software that enhances user experiences. With a strong background in retail banking projects, I've led teams to deliver high-quality solutions efficiently.
 
